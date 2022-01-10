@@ -3,8 +3,7 @@ Tkinter (Python)
 
 <img width="562" alt="image" src="https://user-images.githubusercontent.com/72887609/148822481-9869c2b0-34f0-45ff-af59-5e586aca6ca5.png">
 
-<img width="541" alt="image" src="https://user-images.githubusercontent.com/72887609/148824020-cbfdb691-3b9d-4eb3-a820-9533650ea2e3.png">
-
+<img width="558" alt="image" src="https://user-images.githubusercontent.com/72887609/148824527-d07aa4d3-d2e5-43c5-a3e0-6ece54f7b889.png">
 
 # ✓ Modules Requirements and Installation:
 
